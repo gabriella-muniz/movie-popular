@@ -65,7 +65,5 @@ export default {
 };
 </script>
 
-<style>
-/* Estilos adicionais se necessário */
-</style>
+
 
